@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAPD///8PAADwb2ZmZv8A8P9mZmZm9g/wb2ZmZmZmD/9mZmb2ZmYPn2n/ZvZmZvafmZlm9mZm9v+ZmZn5Zmb28JH/mfmTmfnwEZmZ+ZmZ+QAfmZmZmZn5AB+ZmZmZmf8A8JGZmZmZDwDwERERmf8AAAD/////AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Phillip"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAoAAAD//wCgegcAAP//7q53dwcA///up3d3dwD//36qqnd3d3f/fiqid3d3d/d+qqp3f3d3936nend/d3f3fqqqd393d/d+KqJ3d3d3936qqnd3d3f/7qd3d3cA9//urnd3BwD//wCgd3cAAP//AKAKAAAA//8AAAoAAAD//w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "human Steve"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAADgBAAAAAAAAO5ERAAAAADgTkQAAAAAAOBERAAAAAAA4EREAAAAAADuREQAAAAAgE5ERAAAAACASERERAAAAACIiEQAAAAAAE6ECAAAAAAATvSICAAAAADw9ICIAAAAAAAEAAgAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sweeper"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
